@@ -10,7 +10,7 @@
 		
 		//TR: View kısmı için [HttpGet] ActionResult tanımlanır.
 		//EN: [HttpGet] ActionResult is defined for View part.
-		[HttpGet]
+	[HttpGet]
         public ActionResult UplaodImage()
         {
             return View();
