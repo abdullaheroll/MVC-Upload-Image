@@ -1,7 +1,7 @@
 # MVC-Upload-Image
 
 TR:
-Dilediğiniz gibi kullanıp, geliştirebilirsiniz
+Dilediğiniz gibi kullanıp, geliştirebilirsiniz.
 
 - 👋 Merhaba, ben @abdullaheroll...
 - 👀 Yazılımla ilgileniyorum...
